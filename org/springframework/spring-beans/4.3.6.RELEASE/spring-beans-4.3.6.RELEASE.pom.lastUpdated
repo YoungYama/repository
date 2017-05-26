@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 21 11:52:02 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492746722260
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-beans\:pom\:4.3.6.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\Users\\Administrator\\.m2\\repository\\org\\springframework\\spring-beans\\4.3.6.RELEASE\\aether-8099a3e5-29fa-47a2-8e90-cac8abd991e6-spring-beans-4.3.6.RELEASE.pom-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)

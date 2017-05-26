@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Apr 21 11:51:11 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1492746671779
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-core\:pom\:4.3.7.RELEASE from/to central (https\://repo.maven.apache.org/maven2)\: connect timed out

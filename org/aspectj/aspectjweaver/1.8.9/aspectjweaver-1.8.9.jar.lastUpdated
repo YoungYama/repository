@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Apr 07 15:56:22 CST 2017
+default-http\://repo1.maven.org/maven2/.lastUpdated=1491551782305
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact org.aspectj\:aspectjweaver\:jar\:1.8.9 from/to central (http\://repo1.maven.org/maven2)\: No response received after 60000

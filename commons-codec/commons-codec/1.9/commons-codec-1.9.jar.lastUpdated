@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Mar 31 19:14:55 CST 2017
+default-http\://repo1.maven.org/maven2/.lastUpdated=1490958895828
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact commons-codec\:commons-codec\:jar\:1.9 from/to central (http\://repo1.maven.org/maven2)\: C\:\\Users\\Administrator\\.m2\\repository\\commons-codec\\commons-codec\\1.9\\commons-codec-1.9.jar.ahc4503fed1f1e9427e (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
